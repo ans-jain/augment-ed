@@ -1,0 +1,8 @@
+{
+  "name": "augmentED",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "af6b260e"
+}
